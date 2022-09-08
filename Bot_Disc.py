@@ -187,4 +187,4 @@ async def on_ready():
     print("My bot is ready")
 
 
-bot.run("OTQzNzExNDI5NDI3NjEzNzA3.Yg3Bwg.CUUAr31OPjxhXHSY4vk_q6Vt7C4")
+bot.run("TOKEN_DISCORD")
